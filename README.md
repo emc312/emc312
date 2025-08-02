@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning ...web dev on the Odin Project 
 - 💞️ I’m looking to collaborate on ...nothing rn
 
-![TryHackMe Stats](https://raw.githubusercontent.com/emc312/emc312/master/assets/tryhackme-badge.png)
+
 
 <!---
 emc312/emc312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
